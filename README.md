@@ -4,6 +4,8 @@ Description: Simple .MD editor / Previewer
 
 GitHub: https://github.com/Lhorath/dotEMdee
 
+live: http://dotemdee.nerdygamertools.com/
+
 # Directory Tool: A Dynamic PHP Project Hub
 
 ### Features
