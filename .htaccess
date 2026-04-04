@@ -1,0 +1,27 @@
+# Dot Em Dee — Apache (document root: same folder as this file)
+# Live: http://dotemdee.dackdns.ddns.net/
+
+<IfModule mod_dir.c>
+    DirectoryIndex index.php index.html
+</IfModule>
+
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Serve existing files and directories as normal
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    # Allow SVG to be used as social preview (og:image) when fetched cross-origin
+    <FilesMatch "\.(svg)$">
+        Header set Content-Type "image/svg+xml"
+    </FilesMatch>
+</IfModule>
+
+AddDefaultCharset UTF-8

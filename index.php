@@ -11,22 +11,22 @@
     <meta name="theme-color" content="#0b1020">
     <meta name="application-name" content="Dot Em Dee">
     <meta name="format-detection" content="telephone=no">
-    <link rel="canonical" href="https://dotemdee.com/">
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://dotemdee.com/sitemap.xml">
+    <link rel="canonical" href="http://dotemdee.dackdns.ddns.net/">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="http://dotemdee.dackdns.ddns.net/sitemap.xml">
 
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Dot Em Dee">
     <meta property="og:title" content="Dot Em Dee | The Full Service Markdown Editor">
     <meta property="og:description" content="Write Markdown faster with live preview, platform-aware snippets, and a clean side-by-side editor experience.">
-    <meta property="og:url" content="https://dotemdee.com/">
-    <meta property="og:image" content="https://dotemdee.com/og-image.svg">
+    <meta property="og:url" content="http://dotemdee.dackdns.ddns.net/">
+    <meta property="og:image" content="http://dotemdee.dackdns.ddns.net/og-image.svg">
     <meta property="og:image:alt" content="Dot Em Dee - The Full Service Markdown Editor">
     <meta property="og:locale" content="en_CA">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Dot Em Dee | The Full Service Markdown Editor">
     <meta name="twitter:description" content="Live Markdown editor with side-by-side preview and platform-specific snippet shortcuts.">
-    <meta name="twitter:image" content="https://dotemdee.com/og-image.svg">
+    <meta name="twitter:image" content="http://dotemdee.dackdns.ddns.net/og-image.svg">
     <meta name="twitter:image:alt" content="Dot Em Dee - The Full Service Markdown Editor">
     <title>Dot Em Dee | The Full Service Markdown Editor</title>
     <link rel="stylesheet" href="style.css">
@@ -38,7 +38,7 @@
             "name": "Dot Em Dee",
             "applicationCategory": "DeveloperApplication",
             "operatingSystem": "Web",
-            "url": "https://dotemdee.com/",
+            "url": "http://dotemdee.dackdns.ddns.net/",
             "description": "The full service Markdown editor with live preview and platform-specific snippet tools.",
             "offers": {
                 "@type": "Offer",

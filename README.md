@@ -1,5 +1,18 @@
 # Dot Em Dee
 
+Icon: fa-solid fa-code
+
+Description: Dotemdee - Markdown Editing Tool
+
+Live: https://dotemdee.com/
+
+Demo Site: http://dotemdee.dackdns.ddns.net/
+
+GitHub: https://github.com/Lhorath/dotemdee
+
+
+
+
 **The Full Service Markdown Editor**
 
 Dot Em Dee is a side-by-side Markdown editor with live preview, a modern interface, and a platform-aware snippet toolbar for fast authoring across multiple Markdown ecosystems.
@@ -7,7 +20,7 @@ Dot Em Dee is a side-by-side Markdown editor with live preview, a modern interfa
 ## Live Project Links
 
 - **GitHub:** [https://github.com/Lhorath/dotEMdee](https://github.com/Lhorath/dotEMdee)
-- **Live Demo:** [http://dotemdee.nerdygamertools.com/](http://dotemdee.nerdygamertools.com/)
+
 
 ## What It Does
 
