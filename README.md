@@ -1,17 +1,31 @@
-# Dot Em Dee
+# Dot Em Dee — Markdown Editor
 
-Full-service **Markdown** editor in the browser: live preview, side-by-side editing, and platform-aware snippet shortcuts (GitHub, Discord, GitLab, Obsidian, Reddit, Slack). Uses **marked** from CDN and custom `style.css`.
+> Full-service browser-based Markdown editor with live preview, side-by-side editing, and platform-aware snippet shortcuts for GitHub, Discord, GitLab, Obsidian, Reddit, and Slack.
 
-## Live
+## Live Demo
 
-http://dotemdee.dackdns.ddns.net/
+[dotemdee.dackdns.ddns.net](http://dotemdee.dackdns.ddns.net/)
+
+## Features
+
+- Live preview alongside the editor
+- Platform-aware snippet shortcuts (GitHub, Discord, GitLab, Obsidian, Reddit, Slack)
+- Powered by **marked** (loaded from CDN)
+- No build step — works directly in the browser
 
 ## Requirements
 
-Static hosting or open `index.html` locally; no build step.
+Static hosting or open `index.html` locally — no backend required.
+
+## Usage
+
+Open `index.html` in a browser, or serve the folder with any static file server:
+
+```bash
+npx serve .
+```
 
 ## License
 
-See [LICENSE](LICENSE) (MIT).
-
-**Repository:** https://github.com/Lhorath/dotEMdee
+MIT — see [LICENSE](LICENSE).  
+Copyright © 2026 [MacWeb Canada](https://macweb.ca) | Professional Online Solutions.
